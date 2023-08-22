@@ -1,0 +1,5 @@
+中文插件  composer remove flarum-lang/chinese-simplified
+SEO  composer require v17development/flarum-seo
+更多 composer require imeepo/flarum-more-bbcode:"*"
+表情 composer require clarkwinkelmann/flarum-ext-emojionearea
+修改用户名composer require fof/username-request:"*"
